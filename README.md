@@ -20,7 +20,7 @@ Welcome to the Meme Generator! This is a simple web application that generates w
 
 To run the Meme Generator locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/meme-generator.git`
+1. Clone the repository: `git clone https://github.com/Jr-Einstein/meme-generator.git`
 2. Open the project directory: `cd meme-generator`
 3. Open the `index.html` file in your preferred web browser.
 
