@@ -36,7 +36,7 @@ Feel free to customize the Meme Generator according to your preferences. You can
 
 ## Contributions 🤝
 
-Contributions are always welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request. 🙌
+Contributions are always welcome for the frontend part! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request. 🙌
 
 ## Acknowledgements 🙏
 
