@@ -51,8 +51,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 If you have any questions, comments, or feedback, please feel free to reach out. 📬
 
 - Your Name
-- Email: amansciencestar@gmail.com
-- GitHub: [Username](https://github.com/Jr-Einstein)
+- Email: amankumar.singh2022@vitbhopal.ac.in
+- GitHub: [Jr-Einstein](https://github.com/Jr-Einstein)
 
 ---
 
